@@ -96,7 +96,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/4da8e3f3-9165-4dcb-a27a-e85a2f4ca008)
+![Screenshot 2024-10-22 131638](https://github.com/user-attachments/assets/e020d833-b538-479b-99dd-06dcb69bdcbb)
+
 
 ## RESULT:
 Thus, the ElGamal encryption and decryption algorithm has been successfully implemented in C.
