@@ -1,4 +1,4 @@
-# Exp-12-Implement-Elgamal-Encryption-and-Decryption
+# Ex-12-Implement-Elgamal-Encryption-and-Decryption
 ## AIM:
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
